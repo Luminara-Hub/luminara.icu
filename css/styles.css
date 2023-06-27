@@ -35,10 +35,11 @@ a:active {
   padding: 8rem;
   flex-direction: row;
   flex-wrap: wrap;
-  overflow: hidden;
+  overflow-x: hidden;
   display: flex;
   justify-content: center;
   align-items: stretch;
+  border: 1px solid red;
 }
 
 .logo-container {
@@ -83,6 +84,7 @@ a:active {
 
 h3 {
   font-size: 2.4rem;
+  text-align: center;
 }
 
 .info-text {
