@@ -28,6 +28,18 @@ a:active {
   color: #fff;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  color: rgb(182, 187, 114);
+  font-weight: bold;
+}
+
+.m-top-1 {
+  margin-top: 1rem;
+}
 
 .content-container {
   width: 100vw;
@@ -39,7 +51,6 @@ a:active {
   display: flex;
   justify-content: center;
   align-items: stretch;
-  border: 1px solid red;
 }
 
 .logo-container {
