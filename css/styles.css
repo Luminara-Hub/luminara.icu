@@ -33,7 +33,7 @@ a:active {
 }
 
 .text-bold {
-  color: rgb(182, 187, 114);
+  /*color: rgb(182, 187, 114);*/
   font-weight: bold;
 }
 
